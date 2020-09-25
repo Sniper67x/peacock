@@ -30176,7 +30176,8 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-line-1 {width: 294px; margin-right: -8px} }
 
 @media (max-width: 767px){ .u-header .u-image-1 {width: auto} }
-
+@media (max-width: 575px){ .u-header .u-menu-1 {margin-top: 20px; margin-left: 0}
+.u-header .u-line-1 {margin-top: 20px; margin-left: 0} }
  .u-footer .u-sheet-1 {min-height: 265px}
 .u-footer .u-image-1 {margin: 0 474px 0 auto}
 .u-footer .u-logo-image-1 {max-width: 176px; max-height: 176px}
@@ -30191,11 +30192,11 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-social-icons-1 {margin-left: 529px}
 .u-footer .u-text-1 {margin-right: 319px; margin-left: 335px} }
 @media (max-width: 767px){ .u-footer .u-image-1 {width: 47px; margin-right: 0}
-.u-footer .u-social-icons-1 {margin-left: 517px}
-.u-footer .u-text-1 {margin-right: 229px; margin-left: 245px} }
-@media (max-width: 575px){ .u-footer .u-image-1 {width: 40px}
-.u-footer .u-social-icons-1 {margin-left: 317px}
-.u-footer .u-text-1 {margin-right: 315px; margin-left: 145px} }
+.u-footer .u-social-icons-1 {margin-top: 20px; margin-left: 259px}
+.u-footer .u-text-1 {margin-top: 20px; margin-left: 0; margin-right: 229px} }
+@media (max-width: 575px){ .u-footer .u-image-1 {width: 176px; margin-right: auto}
+.u-footer .u-social-icons-1 {margin-left: auto}
+.u-footer .u-text-1 {width: 25px; margin-left: auto; margin-right: auto} }
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
