@@ -19,8 +19,8 @@
 .u-section-1 .u-text-2 {font-size: 3.75rem}
 .u-section-1 .u-btn-1 {padding: 10px 37px 10px 36px} }
 
-@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 525px}
-.u-section-1 .u-layout-wrap-1 {width: 770px; margin-left: -50px}
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 786px}
+.u-section-1 .u-layout-wrap-1 {width: 770px; margin-top: 96px; margin-left: -50px}
 .u-section-1 .u-layout-cell-1 {min-height: 100px}
 .u-section-1 .u-image-1 {width: 342px; height: 517px; margin-left: 0}
 .u-section-1 .u-layout-cell-2 {min-height: 100px}
@@ -64,15 +64,17 @@
 .u-section-2 .u-sheet-1 {min-height: 914px}
 .u-section-2 .u-text-1 {margin-left: 210px; margin-right: 210px}
 .u-section-2 .u-gallery-1 {height: 689px; grid-template-columns: auto auto; margin-right: initial; margin-left: initial}
-.u-section-2 .u-gallery-inner-1 {grid-template-columns: repeat(2, auto)} }
+.u-section-2 .u-gallery-inner-1 {grid-template-columns: auto; grid-gap: 17px 17px}
+.u-section-2 .u-btn-1 {margin-left: auto} }
 
-@media (max-width: 767px){ .u-section-2 {min-height: 1859px}
-.u-section-2 .u-sheet-1 {min-height: 1775px}
+@media (max-width: 767px){ .u-section-2 {min-height: 826px}
+.u-section-2 .u-sheet-1 {min-height: 742px}
 .u-section-2 .u-text-1 {margin-left: 20px; margin-right: 20px}
-.u-section-2 .u-gallery-1 {height: 1550px; grid-template-columns: auto; margin-right: initial; margin-left: initial}
-.u-section-2 .u-gallery-inner-1 {grid-template-columns: repeat(1, auto)} }
+.u-section-2 .u-gallery-1 {height: 517px; grid-template-columns: auto; margin-right: initial; margin-left: initial}
+.u-section-2 .u-gallery-inner-1 {grid-template-columns: repeat(1, auto)}
+.u-section-2 .u-btn-1 {margin-left: 515px} }
 
-@media (max-width: 575px){ .u-section-2 {min-height: 1285px}
-.u-section-2 .u-sheet-1 {min-height: 1201px}
-.u-section-2 .u-gallery-1 {height: 976px; margin-right: initial; margin-left: initial}
+@media (max-width: 575px){ .u-section-2 {min-height: 635px}
+.u-section-2 .u-sheet-1 {min-height: 551px}
+.u-section-2 .u-gallery-1 {height: 326px; margin-right: initial; margin-left: initial}
 .u-section-2 .u-btn-1 {margin-left: auto} }

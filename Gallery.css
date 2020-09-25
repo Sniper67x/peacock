@@ -27,14 +27,14 @@
 
 @media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 1276px}
 .u-section-1 .u-gallery-1 {height: 1256px; grid-template-columns: auto auto; margin-right: initial; margin-left: initial}
-.u-section-1 .u-gallery-inner-1 {grid-template-columns: repeat(2, auto)} }
+.u-section-1 .u-gallery-inner-1 {grid-template-columns: auto; grid-gap: 17px 17px} }
 
-@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 3411px}
-.u-section-1 .u-gallery-1 {height: 3391px; grid-template-columns: auto; margin-right: initial; margin-left: initial}
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 962px}
+.u-section-1 .u-gallery-1 {height: 942px; grid-template-columns: auto; margin-right: initial; margin-left: initial}
 .u-section-1 .u-gallery-inner-1 {grid-template-columns: repeat(1, auto)} }
 
-@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 2155px}
-.u-section-1 .u-gallery-1 {height: 2135px; margin-right: initial; margin-left: initial} }.u-section-2 .u-sheet-1 {min-height: 919px}
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 613px}
+.u-section-1 .u-gallery-1 {height: 593px; margin-right: initial; margin-left: initial} }.u-section-2 .u-sheet-1 {min-height: 919px}
 .u-section-2 .u-gallery-1 {height: 796px; grid-template-columns: auto auto auto; grid-gap: 17px 17px; margin: 4px auto 0}
 .u-section-2 .u-gallery-inner-1 {grid-template-columns: repeat(3, auto); grid-gap: 17px}
 .u-section-2 .u-gallery-item-1 {box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4)}
@@ -64,11 +64,11 @@
 
 @media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 1379px}
 .u-section-2 .u-gallery-1 {height: 1256px; grid-template-columns: auto auto; margin-right: initial; margin-left: initial}
-.u-section-2 .u-gallery-inner-1 {grid-template-columns: repeat(2, auto)} }
+.u-section-2 .u-gallery-inner-1 {grid-template-columns: auto; grid-gap: 17px 17px} }
 
-@media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 3514px}
-.u-section-2 .u-gallery-1 {height: 3391px; grid-template-columns: auto; margin-right: initial; margin-left: initial}
+@media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 1065px}
+.u-section-2 .u-gallery-1 {height: 942px; grid-template-columns: auto; margin-right: initial; margin-left: initial}
 .u-section-2 .u-gallery-inner-1 {grid-template-columns: repeat(1, auto)} }
 
-@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 2258px}
-.u-section-2 .u-gallery-1 {height: 2135px; margin-right: initial; margin-left: initial} }
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 716px}
+.u-section-2 .u-gallery-1 {height: 593px; margin-right: initial; margin-left: initial} }
